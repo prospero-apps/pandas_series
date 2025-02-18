@@ -125,9 +125,25 @@ In the previous part of the Pandas series we were talking about indexing and sli
 
 
 ### pandas Part 21 – Sorting MultiIndices
+Sorting multi-indices is important because many slicing operations only work on sorted data.
+
+![image](https://github.com/user-attachments/assets/68565278-f772-4102-af37-b8e2ce6f69a3)
+
 
 ### pandas Part 22 – Setting and Resetting Indices
+In the previous part of the Pandas series we were talking about sorting indices. Today we'll be talking about another way of rearranging multi-indexed data, index setting and resetting.
+
+![image](https://github.com/user-attachments/assets/646b911e-f35a-4e9f-bc64-b2b054910199)
+
 
 ### pandas Part 23 – Data Aggragation on MultiIndices
+We can aggregate hierarchically indexed data using common aggragation methods like mean, sum, min or max. 
+
+![image](https://github.com/user-attachments/assets/3571608d-c9ab-4c06-bdef-1ee7c5cf43e9)
+
 
 ### pandas Part 24 – Dataset Concatenation
+We can concatenate Series and DataFrame objects using the pd.concat method.
+
+![image](https://github.com/user-attachments/assets/31f65245-eb5b-452b-bb45-7681bbb69df3)
+
